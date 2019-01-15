@@ -1,0 +1,6 @@
+token= NTM0Njk5NzIxMjI3NTAxNTgw.Dx9Z2Q.N8eTsqFZaa2IblfXryXDO35oxvU
+owner= 388520564446330891
+prefix= 3
+game= 3play
+stayinchannel=false
+songinstatus=false
